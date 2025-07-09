@@ -1,0 +1,1 @@
+global.modalForUser = require("./user");
